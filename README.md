@@ -10,6 +10,7 @@ This is part of the *paragraph*.
 1. Larry
 1. Curly
 1. Shemp
+1. Curly Joe
 
 - APPLE
 - Banana
